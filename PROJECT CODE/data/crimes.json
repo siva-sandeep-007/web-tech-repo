@@ -1,0 +1,56 @@
+{
+    "crimes": [
+        {
+            "id": 1,
+            "user_id": 2,
+            "crime_type": "Theft",
+            "description": "please recover it it was so costly ",
+            "location": "chennai ",
+            "date": "2025-05-13",
+            "time": "03:25",
+            "status": "Solved",
+            "assigned_officer": "police",
+            "investigation_notes": "",
+            "created_at": "2025-05-13 11:55:38"
+        },
+        {
+            "id": 2,
+            "user_id": 3,
+            "crime_type": "Fraud",
+            "description": "i have click an link that comes in my message then i lost 50k in my bank ",
+            "location": "chennai ",
+            "date": "2025-05-13",
+            "time": "06:50",
+            "status": "Solved",
+            "assigned_officer": "police3",
+            "investigation_notes": "we have recoved the money and identified the thred from the ciber crimins and identified their location and take the action on them",
+            "created_at": "2025-05-13 12:15:45"
+        },
+        {
+            "id": 3,
+            "user_id": 3,
+            "crime_type": "Theft",
+            "description": "i lost my purse",
+            "location": "pvr movies,hydrabad",
+            "date": "2025-05-13",
+            "time": "16:55",
+            "status": "Solved",
+            "assigned_officer": null,
+            "investigation_notes": "",
+            "created_at": "2025-05-13 12:25:20"
+        },
+        {
+            "id": 4,
+            "user_id": 3,
+            "crime_type": "Fraud",
+            "description": "my college take fees for doing ntg",
+            "location": "chennai ",
+            "date": "2025-05-13",
+            "time": "16:03",
+            "status": "Solved",
+            "assigned_officer": null,
+            "investigation_notes": "",
+            "created_at": "2025-05-13 12:32:22"
+        }
+    ]
+}

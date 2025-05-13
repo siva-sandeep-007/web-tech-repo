@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "$2y$10$7s2CBUrPyJC1awnVwOsj4uWmiDIlWWVpPuWolDPhjIoi7Tek2XCKu",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "username": "police",
+            "password": "$2y$10$Jm0lEbEyz4GzaMyDHx9Bp.S5kZnv39mcKMVXJb3TEf5IfutMNIy7e",
+            "role": "police"
+        },
+        {
+            "id": 3,
+            "username": "citizen",
+            "password": "$2y$10$k0cGyucfsIr8owE84A5MJu77nmImlXdWDXpL0piJGjINtYaDZL5KS",
+            "role": "user"
+        },
+        {
+            "id": 4,
+            "username": "police2",
+            "password": "$2y$10$29qtzqcHs3a1syYk3D\/F5OGfc9ZNxJelVbX3CLHz6KRPkH9Uw2Q4e",
+            "role": "police"
+        },
+        {
+            "id": 5,
+            "username": "police3",
+            "password": "$2y$10$u99Paw0tCNcZ\/qKX9Yv8Aush7mEwnXYHwpOBlBuRd7fiNdiD2Q5Sa",
+            "role": "police"
+        }
+    ]
+}
